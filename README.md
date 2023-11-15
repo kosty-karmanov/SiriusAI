@@ -4,7 +4,7 @@
 В нашем проект мы используем обученную на нашем датасете YoloV8. Для Odject Tracking мы успользовали фильтр Калмана который был реализован в [SORT](https://github.com/abewley/sort) (A simple online and realtime tracking algorithm)
 
 
-### Обучение модели YoloV8
+### Обучение модели [YoloV8](https://docs.ultralytics.com/)
   1) Из открытых источников мы собрали и разметили датасет состоящий из 4251 изображений
   2) Обучение происходило на [Google Colabotary](https://colab.google/)
 
