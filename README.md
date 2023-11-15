@@ -21,7 +21,7 @@
 
 
 ### Тестирование алгоритма
-  [Видео работы](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  [Видео работы](https://youtu.be/NLq6LqeYimc)
 
 ### Участники
   1) [Карманов Константин](https://t.me/kostyaka)
