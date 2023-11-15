@@ -1,11 +1,11 @@
 Определение случаев падения человека с помощью технологий компьютерного зрения
 =====
 ### Описание проекта
-В нашем проекте мы используем обученную на нашем датасете YoloV8. Для Odject Tracking мы успользовали фильтр Калмана который был реализован в [SORT](https://github.com/abewley/sort) (A simple online and realtime tracking algorithm)
+В нашем проекте мы используем обученную на нашем датасете YoloV8. Для Odject Tracking мы использовали фильтр Калмана который был реализован в [SORT](https://github.com/abewley/sort) (A simple online and realtime tracking algorithm)
 
 
 ### Обучение модели [YoloV8](https://docs.ultralytics.com/)
-  1) Из открытых источников мы собрали и разметили датасет состоящий из 4251 изображений. Сбор и разметка изобаржение происходили на [Roboflow](https://app.roboflow.com)
+  1) Из открытых источников мы собрали и разметили датасет состоящий из 4251 изображений. Сбор и разметка изображений происходили на [Roboflow](https://app.roboflow.com)
      ![Nothing](https://cdn.discordapp.com/attachments/1041715072705245236/1174233357488488490/image.png?ex=6566d908&is=65546408&hm=b14c3aabfb4109d4c4ff60abcfb97d7b021552b90aa7d3ad24c85a5f155a2f69&)
   2) Обучение происходило на [Google Colabotary](https://colab.google/)
   3) В итоге обучения мы получили довольно хорошие результаты 
