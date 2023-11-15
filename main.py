@@ -24,7 +24,7 @@ while cv2.waitKey(1) != ord("q"):
             conf = math.ceil((box.conf[0] * 100)) / 100
             currentArray = np.array([x1, y1, x2, y2, conf])
             detections = np.vstack((detections, currentArray))
-    resultsTracker = tracker.update(detections)
+    resultsTracker = tracker.update(detections)  # Использование SORT
 
     for result in resultsTracker:
         x1, y1, x2, y2, Id = map(int, result)  # Получение Bounding Box'а и Id человека
