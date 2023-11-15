@@ -21,3 +21,9 @@
 
 ### Тестирование алгоритма
   [Видео работы](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+### Участники
+  1) [Карманов Константин](https://t.me/kostyaka)
+  2) [Евдокимов Никита](https://t.me/A102102102102)
+  3) [Сафаров Давид](https://t.me/davsf)
+  4) [Григорий Попцов](https://t.me/PopcovGrogrij)
